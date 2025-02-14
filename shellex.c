@@ -121,8 +121,7 @@ void exit_built(){
 }
 void help_in(){
 	printf("***************************************\n");
-	printf("A custom Shell for CMSC 257\n");
-	printf("- Jacob Turner\n");
+	printf("A custom Shell by Jacob Turner\n");
 	printf("Usage:\n- After using make, ./sh257 -p <prompt> will allow you to change the prompt\n");
 	printf("***************************************\nBUILTIN COMMANDS:\n");
 	printf("exit: Exits the shell\npid: Prints the process ID\nppid: Prints the parent process ID\nhelp: Displays this menu\ncd: Prints current working directory while \"cd <path>\"  changets the current working directory\n");
