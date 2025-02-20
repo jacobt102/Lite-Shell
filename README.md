@@ -1,7 +1,7 @@
 # LiteShell - A Simple Shell Implementation
 
 ## Overview
-ShellEx is a simple Unix shell implemented in C, designed for educational purposes based on concepts from the book **Computer Systems: A Programmer's Perspective (CS:APP)**. This shell supports built-in commands and executes system commands via the `execvp` system call.
+LiteShell is a simple Unix shell implemented in C, designed for educational purposes based on concepts from the book **Computer Systems: A Programmer's Perspective (CS:APP)**. This shell supports built-in commands and executes system commands via the `execvp` system call.
 
 ## Features
 - Custom shell prompt support
@@ -33,7 +33,7 @@ Example:
 If no custom prompt is provided, the default `sh257>` prompt is used.
 
 ## Built-in Commands
-ShellEx supports the following built-in commands:
+LiteShell supports the following built-in commands:
 
 | Command      | Description |
 |-------------|-------------|
